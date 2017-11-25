@@ -10,4 +10,4 @@
 > git clone https://github.com/vvegorov/vlad-testing.git
 
 ## Запустите package.json
-> npm i -g gulp-cli 
+> npm i -g gulp-cli
