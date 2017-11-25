@@ -9,4 +9,5 @@
 ## Инструкция для старта проекта:
 > git clone https://github.com/vvegorov/vlad-testing.git
 
-## Запустите package.json 
+## Запустите package.json
+> npm i -g gulp-cli 

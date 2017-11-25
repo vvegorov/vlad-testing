@@ -1,31 +1,28 @@
 {
-  "name": "vlad-testing",
+  "name": "itvdn-landing",
   "version": "1.0.0",
-  "description": "landing",
+  "description": "This is langing tutorial for ITVDN students",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vvegorov/vlad-testing.git"
+    "url": "git+https://github.com/sergeyamator/itvdn-landing.git"
   },
-  "author": "vegorov",
+  "author": "Sergey Rubets",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vvegorov/vlad-testing/issues"
+    "url": "https://github.com/sergeyamator/itvdn-landing/issues"
   },
-  "homepage": "https://github.com/vvegorov/vlad-testing#readme",
+  "homepage": "https://github.com/sergeyamator/itvdn-landing#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
-    "gulp": "^3.9.1",
+    "browser-sync": "^2.18.8",
+    "gulp": "github:gulpjs/gulp#4.0",
     "gulp-pug": "^3.3.0",
-    "gulp-sass": "^3.1.0"
-  },
-  "dependencies": {
-    "connect": "^3.6.5",
-    "express": "^4.16.2",
-    "graceful-fs": "^4.1.11",
-    "minimatch": "^3.0.4"
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.3.0",
+    "rimraf": "^2.6.1"
   }
 }
