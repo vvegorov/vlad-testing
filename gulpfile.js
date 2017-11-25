@@ -1,10 +1,10 @@
-const gulp = require('gulp');
-const browserSync = require('browser-sync').create();
-const pug = require('gulp-pug');
-const sass = require('gulp-sass');
-const spritesmith = require('gulp.spritesmith');
-const rimraf = require('rimraf');
-const rename = require('gulp-rename');
+var  gulp = require('gulp');
+var  browserSync = require('browser-sync').create();
+var  pug = require('gulp-pug');
+var  sass = require('gulp-sass');
+var  spritesmith = require('gulp.spritesmith');
+var  rimraf = require('rimraf');
+var  rename = require('gulp-rename');
 
 
 
